@@ -1,0 +1,107 @@
+body {
+  padding: "5px";
+}
+.h3-header {
+  font-weight: 400;
+}
+.header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.header-right {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+  font-weight: 400;
+  font-size: 1rem;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+    "Segoe UI Symbol", "Noto Color Emoji";
+}
+.sec-1-content {
+  text-align: center;
+  font-weight: 100;
+  font-size: 60px;
+}
+.p-element {
+  font-size: 1.25rem;
+  font-weight: 300;
+  color: rgb(113, 112, 112);
+  width: 650px;
+  text-align: center;
+  margin: 0px auto 30px auto;
+  line-height: 1.5;
+}
+.div-con {
+  /* border: 1px solid; */
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+}
+.div-1 {
+  width: 300px;
+  padding: 20px;
+  border-radius: 10px;
+  box-sizing: border-box;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border: 1px solid #ccc;
+  background-color: #fff;
+  margin: 20px;
+  text-align: center;
+}
+.div-1-header {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  text-align: center;
+  font-size: 30px;
+}
+.span-div-1 {
+  color: gray;
+  font-size: 80%;
+  font-weight: 400;
+}
+.h3-div {
+  margin: 20px 0px;
+  font-weight: 900;
+  font-size: 40px;
+  color: inherit;
+}
+.button {
+  border: 1px solid blue;
+  border-radius: 8px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: blue;
+}
+.button-1 {
+  border: 1px solid blue;
+  border-radius: 8px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  background-color: blue;
+}
+.hori-line {
+  width: 1040px;
+}
+.footer-div-1 {
+  display: flex;
+
+  align-items: flex-start;
+  justify-content: center;
+  gap: 90px;
+  margin: 0px;
+}
+.copy{
+  text-align: center;
+}
